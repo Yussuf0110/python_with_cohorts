@@ -27,4 +27,3 @@ print("This is the sum of user1 and user2 square : ",sum_of_the_users_square)
 
 
 
-

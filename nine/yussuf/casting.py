@@ -22,4 +22,3 @@ for i in range (len(full_name)):
         print (full_name[i], end= "-")
     
 
-   

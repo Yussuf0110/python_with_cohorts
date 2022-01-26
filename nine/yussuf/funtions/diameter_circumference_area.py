@@ -11,10 +11,3 @@ def find_circumference_of_a_circle(radius):
 def find_area_of_a_circle(radius):
     area = math.pi * radius * radius
     return area
-    
-    
-radius = float(input("Enter radius of the circle "))
-
-print("The diameter is ",find_diameter_of_a_circle(radius))
-print("The circumference is ",find_circumference_of_a_circle(radius))
-print("The area is ",find_area_of_a_circle(radius))
